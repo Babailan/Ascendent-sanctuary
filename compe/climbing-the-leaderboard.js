@@ -4,6 +4,7 @@ function climbingLeaderboard(ranked, player) {
   let rankedIdentifer = ranked[0];
   let count = 1;
   rankOb[rankedIdentifer] = 1;
+  //turn to
   for (let i = 1; i < ranked.length; i++) {
     if (ranked[i] < rankedIdentifer) {
       count++;
@@ -42,4 +43,3 @@ function climbingLeaderboard(ranked, player) {
   }
   return playerScores;
 }
-climbingLeaderboard([100, 90, 90, 80, 75, 60], [50, 65, 77, 90, 102]);
