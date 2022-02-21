@@ -5,8 +5,11 @@
  */
 
 function bubbleSort(array, order) {
-  for (let i = 0; i < array.length; i++) {
-    for (let j = 0; j < array.length; j++) {}
+  if (order) {
+    let newArray = [];
+    for (let i = 0; i < array.length; i++) {
+      for (let j = 0; j < array.length; j++) {}
+    }
   }
 }
 bubbleSort();
