@@ -4,6 +4,7 @@ function climbingLeaderboard(ranked, player) {
   let rankedIdentifer = ranked[0];
   let count = 1;
   rankOb[rankedIdentifer] = 1;
+  //turn to
   for (let i = 1; i < ranked.length; i++) {
     if (ranked[i] < rankedIdentifer) {
       count++;

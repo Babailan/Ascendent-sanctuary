@@ -6,4 +6,4 @@ function midpoint(order1, order2) {
 
   console.log(`answer : ${x},${y}`);
 }
-midpoint([4, 8], [-4, 2]);
+midpoint([-4, 9], [7, 6]);

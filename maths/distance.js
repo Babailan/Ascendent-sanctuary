@@ -5,7 +5,6 @@ function distanceCalculator(pared1, paired2) {
   const y = Math.pow(paired2[1] - pared1[1], 2);
   console.log(`NOT SQRT ${x + y}`);
   console.log(`SQRT ${Math.sqrt(x + y)}`);
-  //   console.log(`LAST : ${Math.pow()}`);
 }
 
-distanceCalculator([-4, 7], [4, -8]);
+distanceCalculator([2, 5], [6, 2]);
