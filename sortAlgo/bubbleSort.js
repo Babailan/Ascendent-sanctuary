@@ -13,7 +13,3 @@ function bubbleSort(array, order) {
   }
 }
 bubbleSort();
-
-/**
- * @param {string} somebody - Somebody's name.
- */
