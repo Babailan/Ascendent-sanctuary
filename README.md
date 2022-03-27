@@ -1,6 +1,6 @@
 # Competitive solution
 
-for schooling purposes only
+Uzumaki naruto
 
 ## Hackerrank Profile
 
