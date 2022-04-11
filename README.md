@@ -1,6 +1,4 @@
-# Competitive solution
-
-Uzumaki naruto
+# Something else.
 
 ## Hackerrank Profile
 
